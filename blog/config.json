@@ -1,0 +1,25 @@
+{
+	"params":
+	{
+
+		"local_server": "True",
+		"local_uri": "mysql://root:@localhost/codingthunder",
+		"prod_uri": "mysql://root:@localhost/codingthunder",
+		"fb_url": "https://facebook.com/codingthunder",
+		"tw_url": "https://twitter.com/codingthunder",
+		"gh_url": "https://github.com/codingthunder",
+		"gmail-user": "siddharthsharma1808@gmail.com",
+		"gmail-password": "Sanchu*1808",
+		"about_text": "Hi my name is Siddharth Sharma and I like Space Exploration",
+		"no_of_posts": 2,
+		"login_image": "content.svg",
+		"admin_user": "Siddharth",
+		"admin_password": "12345",
+		"upload_location": "C:\\Users\\Siddharth Sharma\\OneDrive\\Desktop\\blog\\static\\img"
+
+		
+
+
+	}
+
+}
